@@ -1,7 +1,0 @@
-The three observable trends are:
-
-    1. According to the Latitude vs. Temperature plot, countries with lower latitudes are hotter i.e. higher in Farenheit
-    
-    2. We observe the highest humidity levels at the Equator which has a latitude of 0 since there is a high concentration of points in the Latitude vs. Humidity scatterplot at Latitude 0.
-    
-    3. Windspeeds are highest at the higher latitudes as observed in the Latitude vs. Windspeed scatterplot. 
